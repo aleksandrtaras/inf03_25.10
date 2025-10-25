@@ -1,0 +1,5 @@
+html,body{margin:0px; height:100%;width:100%;}
+#logo{height:100px;background-color:#43162A;margin:0px;color:white; font-size:140%;text-align:center;}
+#menu{width:30%;float:left;height:600px;color:white;background-color:#8E736E;}
+#tresc{width:70%;float:left;height:600px;font-size:120%;background-color:#E6E6E6;}
+#stopka{width:100%;clear:both;height:100px;color:white;text-align:right;background-color:#8E736E;}
